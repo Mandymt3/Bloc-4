@@ -6,9 +6,9 @@ Since Twitter has become an important communication channel in times of emergenc
 ### Dataset
 Dataset is provided by Kaggle
 #### Results
-Notebook DL_Disaster_tweets.ipynb can delivery:
+Notebook DL_Disaster_tweets.ipynb can deliver:
 - Some visualization of data
 - NLP models (RNN, GRU, LSTM) to predict which Tweets are about real disasters and which ones are not
-- The F1 score to assess performance of each model
+- The F1 score to assess the performance of each model
 
 
